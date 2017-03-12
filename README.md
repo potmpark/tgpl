@@ -1,1 +1,1 @@
-# The Go Programming Languages Exercises
+# The Go Programming Language Exercises
